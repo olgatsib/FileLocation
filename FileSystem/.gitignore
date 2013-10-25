@@ -1,9 +1,2 @@
-/FSTree.class
-/FileInfo.class
-/FileSystemTree.class
-/GUI.class
-/LocateFile$1.class
-/LocateFile.class
-/MyTree$FSTreeIterator.class
-/MyTree.class
-/TreeNode.class
+*.class
+*~
